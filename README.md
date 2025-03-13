@@ -23,6 +23,8 @@
 
 <p align="left">I'm Kenneil from Westchester, New York<br><br>- <br>- 📚 I'm currently studying Business Analytics<br>- ⚡ In my free time I Like to watch sports and leverage data</p>
 
+<img src= "MU.jpg" />
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
