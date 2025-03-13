@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm Kenneil from Westchester, New York<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Kenneil from Westchester, New York<br><br>- <br>- 📚 I'm currently studying Business Analytics<br>- ⚡ In my free time I Like to watch sports and leverage data</p>
 
 ###
 
