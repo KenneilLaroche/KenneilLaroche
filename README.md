@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="[<iframe src="https://giphy.com/embed/Op5wF3ZF35900Zjmdr" width="444" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/STRAPPEDUS-fire-music-fye-Op5wF3ZF35900Zjmdr">via GIPHY</a></p>]>
+  <img height="150" src="[[<iframe src="https://giphy.com/embed/Op5wF3ZF35900Zjmdr" width="444" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/STRAPPEDUS-fire-music-fye-Op5wF3ZF35900Zjmdr">via GIPHY</a></p>](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdwdDc4YXIxcDRramVmYzZkdTAzZmhtajVudjZqdnhuYTViam10YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Op5wF3ZF35900Zjmdr/giphy.gif)]>
     </div>
 
 ###
